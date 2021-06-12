@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 22px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
+.navbar{
+    background-color: rgb(189, 189, 189);
+    padding: 10px;
+    font-family:'Aclonica';font-size: 22px;
+}
