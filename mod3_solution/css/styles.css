@@ -20,3 +20,12 @@ h1{
     padding: 10px;
     font-family:'Aclonica';font-size: 22px;
 }
+
+.container{
+    background-color: gray;
+}
+
+.title-chicken{
+    text-align: center;
+    font-size: 1.2em;
+}
