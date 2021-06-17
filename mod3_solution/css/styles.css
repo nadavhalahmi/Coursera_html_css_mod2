@@ -16,16 +16,17 @@ h1{
 }
 
 .navbar{
-    background-color: rgb(189, 189, 189);
     padding: 10px;
     font-family:'Aclonica';font-size: 22px;
 }
 
-.container{
-    background-color: gray;
-}
+
 
 .title-chicken{
     text-align: center;
     font-size: 1.2em;
+}
+
+.navbar-toggler:hover{
+    background-color: gray;
 }
