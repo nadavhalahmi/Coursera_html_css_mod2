@@ -6,7 +6,6 @@
 
 body{
     font-family: 'Aclonica', sans-serif;
-    font-size: 22px;
     padding: 10px;
 }
 
@@ -15,16 +14,27 @@ h1{
     margin: 20px;
 }
 
-.navbar{
-    padding: 10px;
-    font-family:'Aclonica';font-size: 22px;
-}
-
 
 
 .title-chicken{
     text-align: center;
     font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title-beef{
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title-shushi{
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .navbar-toggler:hover{
